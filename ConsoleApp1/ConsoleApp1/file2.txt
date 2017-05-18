@@ -1,3 +1,4 @@
 test.txt
 remote
 test
+merge2
