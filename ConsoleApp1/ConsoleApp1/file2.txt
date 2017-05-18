@@ -1,3 +1,3 @@
 test.txt
 remote
-merge1
+merge2
